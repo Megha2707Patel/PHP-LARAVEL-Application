@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "laravel/breeze": "^2.4"
+    },
+    "require": {
+        "intervention/image-laravel": "^1.5"
+    }
+}
